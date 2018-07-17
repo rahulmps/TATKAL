@@ -1,0 +1,57 @@
+2018-07-16 15:11:50,057 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 15:21:17,576 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 15:25:39,608 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 17:00:31,820 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 17:06:44,938 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 17:06:45,940 - com.irctc.modules.Login -INFO - Username Entered
+2018-07-16 17:08:31,492 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 17:08:32,374 - com.irctc.modules.Login -INFO - Username Entered
+2018-07-16 17:10:06,928 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 17:10:07,785 - com.irctc.modules.Login -INFO - Username Entered
+2018-07-16 17:23:48,645 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 17:25:25,489 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 17:28:47,900 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 17:30:39,169 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 17:30:39,187 - com.irctc.common.TestCase -INFO -  inside login TC 
+2018-07-16 17:32:33,751 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 17:32:33,777 - com.irctc.common.TestCase -INFO -  inside login TC 
+2018-07-16 17:32:33,778 - com.irctc.modules.Login -INFO - click the menu
+2018-07-16 17:32:34,311 - com.irctc.modules.Login -INFO - clicked the menu now window
+2018-07-16 17:43:33,145 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 17:43:33,176 - com.irctc.common.TestCase -INFO -  inside login TC 
+2018-07-16 17:43:33,176 - com.irctc.modules.Login2 -INFO - click the menu
+2018-07-16 17:43:33,746 - com.irctc.modules.Login2 -INFO - clicked the menu now window
+2018-07-16 17:53:33,370 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 17:53:33,389 - com.irctc.common.TestCase -INFO -  inside login TC 
+2018-07-16 17:53:33,390 - com.irctc.modules.Login2 -INFO - click the menu
+2018-07-16 17:53:34,010 - com.irctc.modules.Login2 -INFO - clicked the menu now window
+2018-07-16 17:53:34,024 - com.irctc.modules.Login2 -INFO - Username has to be Entered
+2018-07-16 18:18:18,020 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 18:18:18,041 - com.irctc.common.TestCase -INFO -  inside login TC 
+2018-07-16 18:18:18,041 - com.irctc.modules.Login2 -INFO - click the menu
+2018-07-16 18:18:18,619 - com.irctc.modules.Login2 -INFO - clicked the menu now window
+2018-07-16 18:18:18,637 - com.irctc.modules.Login2 -INFO - Username has to be Entered
+2018-07-16 18:18:18,637 - com.irctc.modules.Login2 -INFO - Inside while loop 
+2018-07-16 18:19:11,064 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 18:19:11,082 - com.irctc.common.TestCase -INFO -  inside login TC 
+2018-07-16 18:19:11,082 - com.irctc.modules.Login2 -INFO - click the menu
+2018-07-16 18:19:11,623 - com.irctc.modules.Login2 -INFO - clicked the menu now window
+2018-07-16 18:19:11,645 - com.irctc.modules.Login2 -INFO - Username has to be Entered
+2018-07-16 18:19:11,646 - com.irctc.modules.Login2 -INFO - Inside while loop 
+2018-07-16 18:21:33,919 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 18:21:33,939 - com.irctc.common.TestCase -INFO -  inside login TC 
+2018-07-16 18:21:33,939 - com.irctc.modules.Login2 -INFO - click the menu
+2018-07-16 18:21:34,476 - com.irctc.modules.Login2 -INFO - clicked the menu now window
+2018-07-16 18:21:34,485 - com.irctc.modules.Login2 -INFO - Username has to be Entered
+2018-07-16 18:21:34,485 - com.irctc.modules.Login2 -INFO - Inside while loop 
+2018-07-16 18:27:07,134 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 18:27:07,155 - com.irctc.common.TestCase -INFO -  inside login TC 
+2018-07-16 18:27:07,156 - com.irctc.modules.Login2 -INFO - click the menu
+2018-07-16 18:27:07,693 - com.irctc.modules.Login2 -INFO - clicked the menu now window
+2018-07-16 18:27:07,716 - com.irctc.modules.Login2 -INFO - Username has to be Entered
+2018-07-16 18:27:07,717 - com.irctc.modules.Login2 -INFO - Inside while loop 
+2018-07-16 18:29:33,472 - com.irctc.common.TestCase -INFO - ----------------------System StartUp Configuration -----------------------------
+2018-07-16 18:29:33,493 - com.irctc.common.TestCase -INFO -  inside login TC 
+2018-07-16 18:29:33,494 - com.irctc.modules.Login2 -INFO - click the menu
+2018-07-16 18:29:34,081 - com.irctc.modules.Login2 -INFO - clicked the menu now window
+2018-07-16 18:29:34,101 - com.irctc.modules.Login2 -INFO - Username has to be Entered

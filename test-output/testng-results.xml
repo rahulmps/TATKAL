@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="585" started-at="2018-07-16T12:57:07Z" finished-at="2018-07-16T12:57:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="585" started-at="2018-07-16T12:57:07Z" finished-at="2018-07-16T12:57:07Z">
+      <class name="com.irctc.common.TestCase">
+        <test-method status="PASS" signature="systemStartUpConfiguration()[pri:0, instance:com.irctc.common.TestCase@1891008]" name="systemStartUpConfiguration" is-config="true" duration-ms="46" started-at="2018-07-16T18:27:07Z" finished-at="2018-07-16T18:27:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- systemStartUpConfiguration -->
+        <test-method status="PASS" signature="login2()[pri:2, instance:com.irctc.common.TestCase@1891008]" name="login2" duration-ms="568" started-at="2018-07-16T18:27:07Z" finished-at="2018-07-16T18:27:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2 -->
+      </class> <!-- com.irctc.common.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
