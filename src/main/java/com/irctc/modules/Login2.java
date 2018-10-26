@@ -5,6 +5,7 @@ import java.util.Iterator;
 import java.util.Set;
 
 import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -38,7 +39,7 @@ public class Login2 extends Utility {
 	@Test(priority=1,enabled=true)
 	public void log(){
 		logger.info("click the menu");
-		String mwh=driver.getWindowHandle();
+		String mwh=driver.getWindowHandle().toString();
 		System.out.println("Window id "+mwh);
 		lmenu.click();
 		login.click();
@@ -56,21 +57,24 @@ public class Login2 extends Utility {
 		Iterator<String> ite=s.iterator();
 		logger.info("Username has to be Entered");
 
-		while(ite.hasNext()){
-			String Temp=driver.getWindowHandle();
-			System.out.println("Window id "+Temp);
-		}
+		//while(ite.hasNext()){
+			//String Temp=driver.getWindowHandle();
+			//System.out.println("Window id "+Temp);
+		//}
 		while(ite.hasNext())
 		{
+			System.out.println("Window id "+mwh); 
 			logger.info("Inside while loop ");
 		    String popupHandle=ite.next().toString();
-		    if(!mwh.equals(popupHandle))//if(!popupHandle.contains(mwh))
+		    System.out.println("Window id "+popupHandle); 
+		    if(mwh.equals(popupHandle))//if(!popupHandle.contains(mwh))
 		    {
 		    	logger.info("Inside if ");
 		        driver.switchTo().window(popupHandle);
 		        //here you can perform operation in pop-up window**
 		        //After finished your operation in pop-up just select the main window again
 		        
+		        WebElement user = driver.findElement(By.id("userId"));
 		        user.clear();
 				user.sendKeys(prop.getProperty(prop.getProperty("username")));
 				logger.info("Username Entered");
